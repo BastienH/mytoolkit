@@ -1,6 +1,7 @@
 from .file_num_increment import *
 from .replace_last import *
 from .read import *
+from .get_latest_file_in_dir import *
 
 __doc__ = """
 A set of functions for scripts
